@@ -93,7 +93,6 @@
   margin-top: 2rem;
 }
 .cart-main-container {
-  width: 60rem;
   display: flex;
   gap: 2rem;
   flex-wrap: wrap;
@@ -143,6 +142,9 @@
 }
 .cartcontainer {
   display: flex;
+  box-shadow: -5px -4px 13px 3px #cbd5e1;
+  width: 55rem;
+  padding: 0rem 0rem 2rem 0.5rem;
 }
 .cartbill-main-container {
   display: flex;
@@ -170,4 +172,13 @@
 }
 .color {
   color: green;
+}
+.savelater-title {
+  color: #0c4a6e;
+  padding: 0.5rem;
+}
+
+.savelater-container {
+  box-shadow: -5px -4px 13px 3px #cbd5e1;
+  width: 55rem;
 }

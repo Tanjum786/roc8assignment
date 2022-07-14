@@ -15,7 +15,9 @@ export const Navbar = () => {
         <button className="cart-btn" onClick={() => navigate("/cartpage")}>
           <AiOutlineShoppingCart />
         </button>
-        <span className="icon-badge">{cart?.length}</span>
+        {cart.length >= 1 ? (
+          <span className="icon-badge">{cart?.length}</span>
+        ) : null}
       </div>
     </div>
   );

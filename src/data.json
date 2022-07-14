@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "qunty": 1,
+    "productName": "Women Printed Viscose Rayon Straight Kurta  (Blue)",
+    "idealName": "women",
+    "size": "S",
+    "price": 300,
+    "brand": "Libas",
+    "productImage": "https://5.imimg.com/data5/AU/WN/MY-42446239/women-kurti-500x500.jpg"
+  },
+  {
+    "id": 2,
+    "qunty": 1,
+    "productName": "Women Printed Viscose Rayon Straight Kurta  (Blue)",
+    "idealName": "women",
+    "size": "XL",
+    "price": 400,
+    "brand": "Libas",
+    "productImage": "https://m.media-amazon.com/images/I/71nU1LeJKZL._UL1500_.jpg"
+  },
+  {
+    "id": 3,
+    "qunty": 1,
+    "productName": "Women Printed Viscose Rayon Straight Kurta  (Blue)",
+    "idealName": "women",
+    "size": "M",
+    "price": 200,
+    "brand": "Biba",
+    "productImage": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPRAIN-AND-RAIGULS65146B08CF066/1570613720898_1..jpg"
+  },
+  {
+    "id": 4,
+    "qunty": 1,
+    "productName": "Women Printed Viscose Rayon Straight Kurta  (Blue)",
+    "idealName": "women",
+    "size": "XL",
+    "price": 600,
+    "brand": "Biba",
+    "productImage": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPYASH-GALLERYAASH1296504D3AAF65/10.jpg?imwidth=282&impolicy=hq"
+  },
+  {
+    "id": 5,
+    "qunty": 1,
+    "productName": "Women Printed Viscose Rayon Straight Kurta  (Blue)",
+    "idealName": "women",
+    "size": "S",
+    "price": 500,
+    "brand": "Libas",
+    "productImage": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPYASH-GALLERYAASH129650D461C7E3/10.jpg"
+  },
+  {
+    "id": 6,
+    "qunty": 1,
+    "productName": "Solid Men Round Neck Multicolor T-Shirt",
+    "idealName": "mens",
+    "size": "L",
+    "price": 200,
+    "brand": "Nayka",
+    "productImage": "https://m.media-amazon.com/images/I/7147yUb5IEL._UY550_.jpg"
+  },
+  {
+    "id": 7,
+    "qunty": 1,
+    "productName": "Solid Men Round Neck Multicolor T-Shirt",
+    "idealName": "mens",
+    "size": "M",
+    "price": 400,
+    "brand": "Libas",
+    "productImage": "https://www.leatherclue.com/image/cache/catalog/TEES/LC/2-oct-men-s-tshirt-550x550.jpg"
+  },
+  {
+    "id": 8,
+    "qunty": 1,
+    "productName": "Solid Men Round Neck Multicolor T-Shirt",
+    "ideal": "mens",
+    "size": "L",
+    "price": 500,
+    "brand": "Nayka",
+    "productImage": "https://rukminim1.flixcart.com/image/332/398/l4iscy80/t-shirt/7/n/l/s-ts1-vebnor-original-imagfej2qang8ghx.jpeg?q=50"
+  },
+  {
+    "id": 9,
+    "qunty": 1,
+    "productName": "Solid Men Round Neck Multicolor T-Shirt",
+    "ideal": "mens",
+    "size": "M",
+    "price": 600,
+    "brand": "Biba",
+    "productImage": "https://m.media-amazon.com/images/I/61ptYDK-xvL._UY550_.jpg"
+  },
+  {
+    "id": 10,
+    "qunty": 1,
+    "productName": "Solid Men Round Neck Multicolor T-Shirt",
+    "ideal": "mens",
+    "size": "L",
+    "price": 1000,
+    "brand": "Nayka",
+    "productImage": "https://m.media-amazon.com/images/I/419vG6z03YL.jpg"
+  }
+]
